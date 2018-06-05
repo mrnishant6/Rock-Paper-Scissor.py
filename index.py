@@ -1,4 +1,4 @@
-	print("Rock....")
+print("Rock....")
 print("Paper....")
 print("Scissor....")
 
